@@ -1,0 +1,16 @@
+group:
+  484408987:
+  - address: btlcraft.top
+    name: server
+    status: false
+  805902339:
+  - address: btlcraft.top
+    name: server
+    status: false
+  - address: '1.1'
+    name: server
+    status: false
+  - address: hypixel.net
+    name: server
+    status: false
+user: {}
