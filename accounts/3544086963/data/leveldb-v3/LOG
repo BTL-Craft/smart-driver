@@ -2027,3 +2027,12 @@
 00:46:24.966896 version@stat F·[3 1] S·56KiB[8KiB 47KiB] Sc·[0.75 0.00]
 00:46:25.359819 db@janitor F·6 G·0
 00:46:25.359819 db@open done T·393.698ms
+=============== Oct 26, 2022 (CST) ===============
+00:48:35.462880 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+00:48:35.483435 version@stat F·[3 1] S·56KiB[8KiB 47KiB] Sc·[0.75 0.00]
+00:48:35.483435 db@open opening
+00:48:35.484011 journal@recovery F·1
+00:48:35.484011 journal@recovery recovering @514
+00:48:35.484583 version@stat F·[3 1] S·56KiB[8KiB 47KiB] Sc·[0.75 0.00]
+00:48:35.944763 db@janitor F·6 G·0
+00:48:35.944763 db@open done T·461.3284ms
